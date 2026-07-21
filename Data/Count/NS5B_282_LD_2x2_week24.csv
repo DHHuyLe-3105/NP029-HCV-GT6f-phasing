@@ -1,0 +1,9 @@
+# NS5B-282 week 24 linkage disequilibrium: nt8463 (rows) x nt8464 (cols)
+"# values = read counts of the four canonical codons (codon-level, Q>=20)"
+,nt8464_C,nt8464_G,row_total
+nt8463_T,"1573 (TCT, Ser)","1 (TGT, S282C)",1574
+nt8463_A,"2 (ACT, S282T)","700 (AGT, Ser)",702
+col_total,1575,701,2276
+
+"# diagonal (TCT,AGT)=observed serine haplotypes; off-diagonal (TGT=S282C, ACT=S282T)=fabricated by independence multiplication"
+# N=2276; D_prime=0.998; r2=0.994; Somers_D=0.997 (95% CI 0.992-1.000); Fisher_exact_p < 2.2e-16

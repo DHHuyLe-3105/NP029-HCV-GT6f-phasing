@@ -1,0 +1,32 @@
+# locus,NS5B-282,reference,nt 8463-8465 of DQ835760.1
+# base-quality filter,Q>=20,note,counts from deposited read-level BAMs
+timepoint,codon,amino_acid,annotation,count,total_spanning_reads,percent
+Baseline,AGT,Ser,Ser (wild-type),3342,3385,98.73
+Baseline,AGC,Ser,Ser (synonymous),26,3385,0.768
+Baseline,GGT,Gly,Gly,9,3385,0.266
+Baseline,AAT,Asn,Asn,2,3385,0.059
+Baseline,TGT,Cys,Cys (S282C),2,3385,0.059
+Baseline,AGA,Arg,Arg,2,3385,0.059
+Baseline,TCT,Ser,Ser (synonymous sweep),1,3385,0.03
+Baseline,CGT,Arg,Arg,1,3385,0.03
+Week24,TCT,Ser,Ser (synonymous sweep),1573,2297,68.481
+Week24,AGT,Ser,Ser (wild-type),700,2297,30.475
+Week24,TCC,Ser,Ser,7,2297,0.305
+Week24,CCT,Pro,Pro,5,2297,0.218
+Week24,GGT,Gly,Gly,3,2297,0.131
+Week24,ACT,Thr,Thr (S282T),2,2297,0.087
+Week24,TTT,Phe,Phe,2,2297,0.087
+Week24,TCA,Ser,Ser,2,2297,0.087
+Week24,TGT,Cys,Cys (S282C),1,2297,0.044
+Week24,TAT,Tyr,Tyr,1,2297,0.044
+Week24,AAT,Asn,Asn,1,2297,0.044
+Week72,TCT,Ser,Ser (synonymous sweep),2714,2963,91.596
+Week72,AGT,Ser,Ser (wild-type),213,2963,7.189
+Week72,CCT,Pro,Pro,13,2963,0.439
+Week72,TCC,Ser,Ser,10,2963,0.337
+Week72,TTT,Phe,Phe,4,2963,0.135
+Week72,TGT,Cys,Cys (S282C),3,2963,0.101
+Week72,TCA,Ser,Ser,3,2963,0.101
+Week72,TCG,Ser,Ser,1,2963,0.034
+Week72,TAT,Tyr,Tyr,1,2963,0.034
+Week72,CGT,Arg,Arg,1,2963,0.034

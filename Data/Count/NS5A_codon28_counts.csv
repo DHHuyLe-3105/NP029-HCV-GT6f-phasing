@@ -1,0 +1,24 @@
+# locus,NS5A-28,reference,nt 6336-6338 of DQ835760.1
+# base-quality filter,Q>=20,note,counts from deposited read-level BAMs
+timepoint,codon,amino_acid,annotation,count,total_spanning_reads,percent
+Baseline,ACG,Thr,Thr (A28T),1836,1974,93.009
+Baseline,ACA,Thr,Thr (A28T),68,1974,3.445
+Baseline,GCG,Ala,Ala (wild-type),39,1974,1.976
+Baseline,GCA,Ala,Ala (wild-type),25,1974,1.266
+Baseline,ATG,Met,Met,2,1974,0.101
+Baseline,TCA,Ser,Ser,2,1974,0.101
+Baseline,TCG,Ser,Ser,2,1974,0.101
+Week24,ACG,Thr,Thr (A28T),2871,2888,99.411
+Week24,GCG,Ala,Ala (wild-type),9,2888,0.312
+Week24,ACA,Thr,Thr (A28T),2,2888,0.069
+Week24,ACT,Thr,Thr (A28T),2,2888,0.069
+Week24,AAG,Lys,Lys,2,2888,0.069
+Week24,ACC,Thr,Thr (A28T),1,2888,0.035
+Week24,CCG,Pro,Pro,1,2888,0.035
+Week72,ACG,Thr,Thr (A28T),1670,1697,98.409
+Week72,ACA,Thr,Thr (A28T),16,1697,0.943
+Week72,TCG,Ser,Ser,4,1697,0.236
+Week72,GCG,Ala,Ala (wild-type),3,1697,0.177
+Week72,ACT,Thr,Thr (A28T),2,1697,0.118
+Week72,ACC,Thr,Thr (A28T),1,1697,0.059
+Week72,AAG,Lys,Lys,1,1697,0.059
