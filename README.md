@@ -88,7 +88,9 @@ peak, i.e. no S282C/S282T.
 
 If you use these data, please cite the paper:
 
-> [Authors]. [Title]. [Journal, year]. [DOI]
+> Le,D.H.H., Puenpa,J., Nilyanimit,P., Honsawek,S. and Poovorawan,Y. Center of Excellence in Clinical Virology,
+            Chulalongkorn University, 1873, Rama 4 Road, Pathumwan, Bangkok
+            10330, Thailand
 
 ## License
 
